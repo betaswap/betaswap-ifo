@@ -1,1 +1,1 @@
-# betaswap-ifo
+# ifo
